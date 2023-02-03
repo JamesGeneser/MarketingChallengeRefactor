@@ -8,7 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
-/* changed non-semantic <div> to more semantic <nav> tag */
+
 
 header {
     padding: 20px;
@@ -26,6 +26,7 @@ header h1 .seo {
     color: #d9dcd6;
 }
 
+/* changed non-semantic <div> to more semantic <nav> tag */
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -90,6 +91,7 @@ p {
     background-color: #2589bd;
 }
 
+/* consolidated benefit styles */
 .benefit-lead, .benefit-brand, .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
